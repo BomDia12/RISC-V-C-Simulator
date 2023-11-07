@@ -1,0 +1,26 @@
+{
+  "files.associations": {
+    "array": "c",
+    "span": "c",
+    "string": "c",
+    "string_view": "c",
+    "vector": "c",
+    "random": "cpp",
+    "u_instructions.h": "c",
+    "instruction_macros.h": "c",
+    "uj_instructions.h": "c",
+    "sys_calls.h": "c",
+    "s_instructions.h": "c",
+    "fetch.h": "c",
+    "stdio.h": "c",
+    "istream": "c",
+    "mutex": "c",
+    "ostream": "c",
+    "stop_token": "c",
+    "typeinfo": "c",
+    "*.inc": "c",
+    "execute.h": "c",
+    "main.h": "c",
+    "inttypes.h": "c"
+  }
+}
